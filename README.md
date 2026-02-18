@@ -21,6 +21,5 @@ Sou uma profissional em transição para a área de **Dados**, focada em extrair
 
 ---
 
-## 📫 Vamos nos conectar?
-- [LinkedIn](https://www.linkedin.com/in/vyvyane-pereira-3337b8127) 
-- [Meu Portfólio de Dashboards](#) ---
+## Vamos nos conectar?
+- [LinkedIn]:(https://www.linkedin.com/in/vyvyane-pereira-3337b8127) 
